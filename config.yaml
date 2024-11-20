@@ -1,0 +1,12 @@
+database : 
+  host : localhost
+  port : 3306
+  user : root
+  password : 
+  name : CA_go
+
+web : 
+  port : 8000
+
+log : 
+  level : 5
